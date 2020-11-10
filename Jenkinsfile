@@ -14,4 +14,4 @@ pipeline{
               sh 'bash test.sh'
         }
     }
-}  
+} 

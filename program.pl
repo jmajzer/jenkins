@@ -1,4 +1,4 @@
 $i=<>;
-$k=<>;
-$sucet=$i+$j;
-print "sucet";
+$j=<>;
+$s=$i+$j;
+print $s;
